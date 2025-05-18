@@ -9,11 +9,11 @@ vectorization techniques:
 <li>BOW (Bag of words)</li>
 <li>N-gram</li>
 <li>Tfidf vectorizer</li>
-
+<br>
 For the models, in this project we worked with:
 <li>MultinomialNB</li>
 <li>SVM</li>
 <li>XGBoost</li>
-
-The final model consisted of 3 models, ensembled using the hard voting technique.
-Final accuracy (5-fold cross validation): 0.9061
+<br>
+The final model consisted of 3 models, ensembled using the hard voting technique.<br>
+Final accuracy (5-fold cross validation): **0.9061**
