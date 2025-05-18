@@ -16,4 +16,4 @@ For the models, in this project we worked with:
 <li>XGBoost</li>
 <br>
 The final model consisted of 3 models, ensembled using the hard voting technique.<br>
-Final accuracy (5-fold cross validation): **0.9061**
+Final accuracy (5-fold cross validation): 0.9061
